@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: Mysql@123
-    url: jdbc:mysql://localhost:3306/employeedb
+    url: jdbc:mysql://localhost:3306/employeedatabase
     
   jpa:
     hibernate:
